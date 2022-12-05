@@ -1,0 +1,14 @@
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.exe
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.deps.json
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.json
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.dev.json
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.dll
+D:\Learning To Code\C#\Projects\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.pdb
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.csproj.AssemblyReference.cache
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfoInputs.cache
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfo.cs
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.csproj.CoreCompileInputs.cache
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.dll
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.pdb
+D:\Learning To Code\C#\Projects\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.genruntimeconfig.cache
